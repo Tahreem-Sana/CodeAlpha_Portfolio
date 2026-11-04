@@ -570,8 +570,8 @@ section {
 .projects p{
     color: var(--primary-color);
     font-size: 1.1rem;
-    font-weight: bold;
     margin-bottom: 10px;
+    padding-bottom: 10px;
 }
 .projects h3{
     color: var(--text-color);
