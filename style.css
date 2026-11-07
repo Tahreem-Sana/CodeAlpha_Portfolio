@@ -742,6 +742,13 @@ nav .logo:hover {
     .education p {
         font-size: 0.95rem;
     }
+    .hero-buttons a {
+    padding: 9px 18px;
+    border-radius: 8px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
 }
 
 @media screen and (max-width: 380px) {
