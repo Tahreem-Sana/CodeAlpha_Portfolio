@@ -29,7 +29,7 @@ This portfolio serves as my professional online presence, highlighting my fronte
 
 ## 🌐 Live Demo
 
-Coming soon — the live website link will be added after deployment.
+portfoliots-five.vercel.app
 
 ## 🎯 Project Goals
 
